@@ -5,3 +5,4 @@
 Example is taken from the Software Carpentry lesson "Programming with Python": 
 (<http://swcarpentry.github.io/python-novice-inflammation/>).
 
+Click on the appropriate badge above to launch this project on Binder or on Azure Notebooks.
