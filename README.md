@@ -1,6 +1,6 @@
 # Jupyter Notebooks For Reproducible Research
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/alex-konovalov/repro-jupyter/master) [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/alex-konovalov/libraries/repro-jupyter)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/olexandr-konovalov/repro-jupyter/master) [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/olexandr-konovalov/libraries/repro-jupyter)
 
 This repository is for giving a talk on using Jupyter Notebooks For Reproducible Research and discussing the paper 
 [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055)
